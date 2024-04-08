@@ -97,6 +97,18 @@ assign a1 = ( d2 | d3 | d6 | d7 );
 assign a2 = ( d4 | d6 | d5 | d7 );
 endmodule
 ~~~
+Module comparator(a,b,eq,lt,gt);
+input [3:0] a,b;
+output reg eq,lt,gt;
+always @(a,b)
+begin
+ 
+ 
+ 
+end 
+endmodule
+~~~
+
 
 
 
