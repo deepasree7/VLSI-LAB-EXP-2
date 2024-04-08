@@ -134,6 +134,9 @@ endmodule
 
 
 OUTPUT WAVEFORM
+DECODER 3TO8:![image](https://github.com/Madhan0302/VLSI-LAB-EXP-2/assets/160517887/d39db28d-24ac-4ac5-bfd1-c23d718a5a81)
+
+
 
 
 RESULT
