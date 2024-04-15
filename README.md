@@ -157,8 +157,9 @@ Elabrated Diagram:![image](https://github.com/Madhan0302/VLSI-LAB-EXP-2/assets/1
 Magnitude Comparator:![image](https://github.com/Madhan0302/VLSI-LAB-EXP-2/assets/160517887/c4f56349-1ee4-4343-adad-9c15732e367f)
 Elabrated Diagram:![image](https://github.com/Madhan0302/VLSI-LAB-EXP-2/assets/160517887/8557f9c3-501d-42ff-983c-0b3d69910876)
 
-Multiplexer 8 to 1:
-Elabrated Diagram:
+Multiplexer 8 to 1:![image](https://github.com/Madhan0302/VLSI-LAB-EXP-2/assets/160517887/1209f3a9-0487-46ef-a102-feb124739633)
+Elabrated Diagram:![image](https://github.com/Madhan0302/VLSI-LAB-EXP-2/assets/160517887/ccb6dfc9-5f5d-4693-ab9f-c8db00811d64)
+
 
 
 RESULT
