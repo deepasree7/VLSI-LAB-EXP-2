@@ -138,8 +138,13 @@ endmodule
 
 
 OUTPUT WAVEFORM
-DECODER 3TO8:![image](https://github.com/Madhan0302/VLSI-LAB-EXP-2/assets/160517887/d39db28d-24ac-4ac5-bfd1-c23d718a5a81)
 
+DECODER 3 TO 8:![image](https://github.com/Madhan0302/VLSI-LAB-EXP-2/assets/160517887/d39db28d-24ac-4ac5-bfd1-c23d718a5a81)
+Elabrated Diagram:![image](https://github.com/Madhan0302/VLSI-LAB-EXP-2/assets/160517887/9e4329c4-bda4-4b7f-ae32-ff2e98b3a2c8)
+
+Demultiplexer 1 to 8:![image](https://github.com/Madhan0302/VLSI-LAB-EXP-2/assets/160517887/b867c07b-eaad-4bcc-91b6-88bb58dd7eec)
+
+Elabrated Diagram:
 
 
 
