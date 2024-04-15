@@ -50,6 +50,8 @@ STEP:11  On the board, by giving required input, the LEDs starts to glow light, 
 
 VERILOG CODE
 ~~~
+DECODER 3 to 8
+
 module decoder_struct(  
   input [2:0] a,    
   output [7:0] d    
@@ -69,6 +71,7 @@ and g11(d[7],a[2],a[1],a[0]);
 endmodule
 ~~~
 ~~~
+DEMULTIPLEXER 1 to 8
 module demux_1_8(y,s,a);
 output reg [7:0]y;
 input [2:0]s;
@@ -91,6 +94,7 @@ end
 endmodule
 ~~~
 ~~~
+ENCODER 8 to 3
 module encoder_8_to_3(a0,a1,a2,d0,d1,d2,d3,d4,d5,d6,d7);
 input d0,d1,d2,d3,d4,d5,d6,d7;
 output a0,a1,a2;
@@ -100,6 +104,7 @@ assign a2 = ( d4 | d6 | d5 | d7 );
 endmodule
 ~~~
 ~~~
+MAGNITUDE COMPARATOR
 Module comparator(a,b,eq,lt,gt);
 input [3:0] a,b;
 output reg eq,lt,gt;
@@ -112,6 +117,7 @@ end
 endmodule
 ~~~
 ~~~
+MULTIPLEXER 8 to 1
 module mux_8tol (in, sel, out);
     input [7:0] in;
     input [2:0] sel;
@@ -139,13 +145,20 @@ endmodule
 
 OUTPUT WAVEFORM
 
-DECODER 3 TO 8:![image](https://github.com/Madhan0302/VLSI-LAB-EXP-2/assets/160517887/d39db28d-24ac-4ac5-bfd1-c23d718a5a81)
+DECODER 3 to 8:![image](https://github.com/Madhan0302/VLSI-LAB-EXP-2/assets/160517887/d39db28d-24ac-4ac5-bfd1-c23d718a5a81)
 Elabrated Diagram:![image](https://github.com/Madhan0302/VLSI-LAB-EXP-2/assets/160517887/9e4329c4-bda4-4b7f-ae32-ff2e98b3a2c8)
 
 Demultiplexer 1 to 8:![image](https://github.com/Madhan0302/VLSI-LAB-EXP-2/assets/160517887/b867c07b-eaad-4bcc-91b6-88bb58dd7eec)
+Elabrated Diagram:![image](https://github.com/Madhan0302/VLSI-LAB-EXP-2/assets/160517887/fddc10cc-d783-4183-a5e3-d0d220ddd44a)
 
+Encoder 8 to 3:![image](https://github.com/Madhan0302/VLSI-LAB-EXP-2/assets/160517887/4674c439-403d-4abf-95d1-ebb7312e76d0)
+Elabrated Diagram:![image](https://github.com/Madhan0302/VLSI-LAB-EXP-2/assets/160517887/3f9600e6-db5a-407f-aa29-58122affa1e1)
+
+Magnitude Comparator:![image](https://github.com/Madhan0302/VLSI-LAB-EXP-2/assets/160517887/c4f56349-1ee4-4343-adad-9c15732e367f)
+Elabrated Diagram:![image](https://github.com/Madhan0302/VLSI-LAB-EXP-2/assets/160517887/8557f9c3-501d-42ff-983c-0b3d69910876)
+
+Multiplexer 8 to 1:
 Elabrated Diagram:
-
 
 
 RESULT
