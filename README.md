@@ -152,18 +152,28 @@ endmodule
 OUTPUT WAVEFORM
 
 DECODER 3 to 8:![image](https://github.com/Madhan0302/VLSI-LAB-EXP-2/assets/160517887/d39db28d-24ac-4ac5-bfd1-c23d718a5a81)
+
+
 Elabrated Diagram:![image](https://github.com/Madhan0302/VLSI-LAB-EXP-2/assets/160517887/9e4329c4-bda4-4b7f-ae32-ff2e98b3a2c8)
 
 Demultiplexer 1 to 8:![image](https://github.com/Madhan0302/VLSI-LAB-EXP-2/assets/160517887/b867c07b-eaad-4bcc-91b6-88bb58dd7eec)
+
+
 Elabrated Diagram:![image](https://github.com/Madhan0302/VLSI-LAB-EXP-2/assets/160517887/fddc10cc-d783-4183-a5e3-d0d220ddd44a)
 
 Encoder 8 to 3:![image](https://github.com/Madhan0302/VLSI-LAB-EXP-2/assets/160517887/4674c439-403d-4abf-95d1-ebb7312e76d0)
+
+
 Elabrated Diagram:![image](https://github.com/Madhan0302/VLSI-LAB-EXP-2/assets/160517887/3f9600e6-db5a-407f-aa29-58122affa1e1)
 
 Magnitude Comparator:![image](https://github.com/Madhan0302/VLSI-LAB-EXP-2/assets/160517887/c4f56349-1ee4-4343-adad-9c15732e367f)
+
+
 Elabrated Diagram:![image](https://github.com/Madhan0302/VLSI-LAB-EXP-2/assets/160517887/8557f9c3-501d-42ff-983c-0b3d69910876)
 
 Multiplexer 8 to 1:![image](https://github.com/Madhan0302/VLSI-LAB-EXP-2/assets/160517887/1209f3a9-0487-46ef-a102-feb124739633)
+
+
 Elabrated Diagram:![image](https://github.com/Madhan0302/VLSI-LAB-EXP-2/assets/160517887/ccb6dfc9-5f5d-4693-ab9f-c8db00811d64)
 
 
