@@ -179,6 +179,6 @@ Elabrated Diagram:![image](https://github.com/Madhan0302/VLSI-LAB-EXP-2/assets/1
 
 
 RESULT:
-        The simulation and synthesis Logic Gates,Adders and Subtractor successfully verified using Vivadoo Software.
+         Simulate and synthesis ENCODER, DECODER, MULTIPLEXER, DEMULTIPLEXER, MAGNITUDE COMPARATOR is verified successfully using Vivado Software
 
 
